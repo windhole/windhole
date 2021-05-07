@@ -2,7 +2,7 @@
 
 Ko Kazaana (a.k.a. windhole)
 
-- freelance tech editor
+- tech editor (freelance)
 - homemaker (have a son in high school)
 - Cybozu Inc. (Developer div./ Connect Support Team)
 - Internet Initiative Japan Inc. (Tech PR / Adviser)
