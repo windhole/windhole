@@ -7,6 +7,7 @@ Ko Kazaana (a.k.a. windhole)
 - Cybozu Inc. (Developer div./ Connect Support Team)
 - Internet Initiative Japan Inc. (Tech PR / Adviser)
 - Linux Foundation Research Japan Editor
+
 etc.
 
 -----
@@ -17,5 +18,6 @@ etc.
 - サイボウズ株式会社（開発本部 コネクト支援）
 - 株式会社インターネットイニシアティブ（広報部 技術広報チーム）
 - Linux Foundation Research Japan Editor
+
 ほか
 
