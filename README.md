@@ -3,8 +3,8 @@
 Ko Kazaana (a.k.a. windhole)
 
 - tech editor (freelance)
-- homemaker (have a son in high school)
-- Cybozu Inc. (Developer div./ Connect Support Team)
+- homemaker (have a son in tech college)
+- Cybozu Inc. (Developer div./ Connect Support)
 - Internet Initiative Japan Inc. (Tech PR / Adviser)
 - Linux Foundation Research Japan Editor
 
