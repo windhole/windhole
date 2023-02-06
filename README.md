@@ -10,6 +10,11 @@ Ko Kazaana (a.k.a. windhole)
 
 etc.
 
+Links:
+- https://twitter.com/windhole
+- https://mstdn.jp/@windhole
+
+
 -----
 風穴　江（かざあな　こう）
 
@@ -20,4 +25,8 @@ etc.
 - Linux Foundation Research Japan Editor
 
 ほか
+
+Links:
+- https://twitter.com/windhole
+- https://mstdn.jp/@windhole
 
