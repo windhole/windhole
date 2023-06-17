@@ -5,7 +5,6 @@ Ko Kazaana (a.k.a. windhole)
 - tech editor (freelance)
 - homemaker (have a son in tech college)
 - Cybozu Inc. (Developer div./ Connect Support)
-- Internet Initiative Japan Inc. (Tech PR / Adviser)
 - Linux Foundation Research Japan Editor
 
 etc.
@@ -19,9 +18,8 @@ Links:
 風穴　江（かざあな　こう）
 
 - フリーランスの編集者（IT系）
-- 主夫（子育て歴18年）
+- 主夫（子育て歴19年）
 - サイボウズ株式会社（開発本部 コネクト支援）
-- 株式会社インターネットイニシアティブ（広報部 技術広報チーム）
 - Linux Foundation Research Japan Editor
 
 ほか
