@@ -25,6 +25,7 @@ Links:
 ほか
 
 Links:
-- https://twitter.com/windhole
+- https://www.threads.net/@windhole  (Primary)
 - https://mstdn.jp/@windhole
+- https://twitter.com/windhole  (no further own new tweet)
 
