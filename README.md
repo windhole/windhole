@@ -12,7 +12,7 @@ etc.
 Links:
 - https://www.threads.net/@windhole  (Primary)
 - https://mstdn.jp/@windhole
-- https://twitter.com/windhole  (no further own new tweet)
+- https://twitter.com/windhole  ~~(no further own new tweet)~~ (resume from Sun, November 5, 2023)
 
 -----
 風穴　江（かざあな　こう）
@@ -27,5 +27,5 @@ Links:
 Links:
 - https://www.threads.net/@windhole  (Primary)
 - https://mstdn.jp/@windhole
-- https://twitter.com/windhole  (no further own new tweet)
+- https://twitter.com/windhole  ~~(no further own new tweet)~~ (resume from Sun, November 5, 2023)
 
