@@ -5,6 +5,7 @@ Ko Kazaana (a.k.a. windhole)
 - tech editor (freelance)
 - Helpfeel Inc. (tech pr)
 - Findy Engineering Lab (Adviser)
+- MITOU Jr. Interview
 etc.
 
 Links:
@@ -18,6 +19,7 @@ Links:
 - フリーランスの編集者（IT系）
 - 株式会社Helpfeel（技術広報）
 - Findy Engineering Lab（編集アドバイザー）
+- [未踏ジュニア 修了生インタビュー](https://jr.mitou.org/interviews/)
 
 ほか
 
