@@ -4,7 +4,8 @@ Ko Kazaana (a.k.a. windhole)
 
 work as:
 - tech editor (freelance)
-- Helpfeel Inc.
+- SAKURA internet Inc.(Technical Communicator, full-time)
+- Helpfeel Inc. (tech-pr, work as a subcontractor)
 - tech pr advisor (freelance)
 etc.
 
@@ -21,7 +22,8 @@ windhole
 
 お仕事：
 - IT系編集者（フリーランス）
-- 株式会社Helpfeel
+- さくらインターネット株式会社（テクニカルコミュニケーター、正社員）
+- 株式会社Helpfeel（技術広報、業務委託）
 - 技術広報支援（フリーランス）
 ほか
 
