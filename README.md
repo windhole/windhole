@@ -10,6 +10,8 @@ work as:
 etc.
 
 Official Links:
+- note
+  - https://note.com/windhole
 - X.com
   - https://x.com/windhole  ~~(no further own new tweet)~~ (resume on Sun, November 5, 2023)
 - Threads
@@ -39,6 +41,8 @@ windhole
 ほか
 
 Official Links:
+- note
+  - https://note.com/windhole
 - X.com
   - https://x.com/windhole  ~~(no further own new tweet)~~ (resume on Sun, November 5, 2023)
 - Threads
